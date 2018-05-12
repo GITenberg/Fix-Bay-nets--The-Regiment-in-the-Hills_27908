@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3840
     wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27908#Fix-Bay-nets--The-Regiment-in-the-Hills
 gutenberg_issued: '2009-01-27'
 gutenberg_type: Text
 identifiers:
