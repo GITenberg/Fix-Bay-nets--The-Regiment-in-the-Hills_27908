@@ -1,0 +1,42 @@
+_repo: Fix-Bay-nets--The-Regiment-in-the-Hills_27908
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Groome, William H. C.
+    aliases:
+    - Groome, W.H.C.
+    - Groome, W. H. C. (William H. C.)
+    gutenberg_agent_id: '9731'
+    url: http://www.gutenberg.org/2009/agents/9731
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fenn, George Manville
+    aliases:
+    - Fenn, G. M. (George Manville)
+    - Fenn, G. Manville (George Manville)
+    birthdate: 1831
+    deathdate: 1909
+    gutenberg_agent_id: '3840'
+    url: http://www.gutenberg.org/2009/agents/3840
+    wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
+description: ''
+gutenberg_issued: '2009-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27908'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcsh 'Great Britain. Army -- Colonial forces -- India -- Juvenile fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcsh 'India -- History -- British occupation, 1765-1947 -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Fix Bay''nets: The Regiment in the Hills'
+url: http://www.gutenberg.org/ebooks/27908
